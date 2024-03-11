@@ -11,11 +11,7 @@ shibu
 Sample Output :
 s h i b u
 
-
-
 code:
-
 S = input().strip()
-
 R = " ".join(S)
 print(R)
