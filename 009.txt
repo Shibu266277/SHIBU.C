@@ -7,21 +7,20 @@ Output Description:
 Print the characters in a string separated by line.
 
 Sample Input :
-guvigeek
+wellcomeyouall
 Sample Output :
-g
+w
+e
+l
+l
+y
+0
 u
-v
-i
-g
-e
-e
-k
-
+a
+l
+l
 
 code:
-
 H = input().strip()
-
 for A in H:
     print(A)
