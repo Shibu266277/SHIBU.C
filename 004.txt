@@ -15,9 +15,7 @@ Sample Output :
 2 4
 2 4
 
-
 code:
-
 x = input().strip()
 y = input().strip()
 z = input().strip()
