@@ -19,7 +19,6 @@ code:
 x = input().strip()
 y = input().strip()
 z = input().strip()
-
 print(x)
 print(y)
 print(z)
