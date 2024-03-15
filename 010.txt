@@ -11,13 +11,7 @@ shah
 Sample Output :
 s,h,a,h
 
-
-
-
 code:
-
-
 S = input().strip()
-
 R = ",".join(S)
 print(R)
