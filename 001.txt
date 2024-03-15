@@ -11,9 +11,7 @@ Sample Input :
 Sample Output :
 2
 
-
 Code:
-
 a=input( )
 a=int(a)
 print(a)
