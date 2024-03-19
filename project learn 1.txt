@@ -1,5 +1,4 @@
 You are given three numbers A, B & C. Print the largest amongst these three numbers.
-
 Input Description:
 Three numbers are provided to you.
 
@@ -12,10 +11,7 @@ Sample Input :
 3
 Sample Output :
 3
-
-
 code:
-
 a = int(input().strip())
 b = int(input().strip())
 c = int(input().strip())
