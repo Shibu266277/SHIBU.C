@@ -1,5 +1,4 @@
 You are given A = Length of a rectangle & B = breadth of a rectangle. Find its area “C”.
-
 (A and B are natural numbers)
 
 Input Description:
@@ -13,10 +12,7 @@ Sample Input :
 3
 Sample Output :
 6
-
-
 code:
-
 a=input()
 b=input()
 print(int(a)*int(b))
