@@ -10,7 +10,6 @@ Sample Input :
 5
 Sample Output :
 2 4 5
-
 code:
 a=input()
 b=input()
