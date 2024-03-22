@@ -5,7 +5,6 @@ A single line contains a string.
 
 Output Description:
 Print the characters in a string separated by comma.
-
 Sample Input :
 shah
 Sample Output :
