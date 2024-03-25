@@ -24,3 +24,18 @@ As you progress in your Python learning journey, you'll delve deeper into these 
 file handling, exception handling, and more. Remember to practice regularly, experiment with code, 
 and don't hesitate to seek help from online resources, tutorials, 
 and communities like Stack Overflow and Reddit's r/learnpython. Happy coding!
+
+Comments can be used to explain Python code.
+Comments can be used to make the code more readable.
+Comments can be used to prevent execution when testing code.
+Comments starts with a #, and Python will ignore them:
+ex: #This is a comment-  print("Hello, World!")
+
+A comment does not have to be text that explains the code, it can also be used to prevent Python from executing code:
+#print("Hello, World!")
+print("Cheers, Mate!")
+
+
+
+
+
