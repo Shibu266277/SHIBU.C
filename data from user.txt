@@ -7,3 +7,5 @@ location = input("enter location ")
 
 sample:
 shibu
+90000
+coimbatore
