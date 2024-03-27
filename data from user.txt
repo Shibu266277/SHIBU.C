@@ -4,3 +4,6 @@
 name = input("enter name ")
 package = int(input("enter package "))
 location = input("enter location ")
+
+sample:
+shibu
