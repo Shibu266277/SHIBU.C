@@ -1,5 +1,5 @@
 #get data from user
-
+# input the data datails
 
 name = input("enter name ")
 package = int(input("enter package "))
